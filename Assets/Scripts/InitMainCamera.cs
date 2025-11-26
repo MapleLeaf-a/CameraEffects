@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class InitMainCamera : MonoBehaviour
 {
+    //´´½¨Cameraµ¥Àý
     public static InitMainCamera MainCameraInstance;
     public Camera Camera;
 
